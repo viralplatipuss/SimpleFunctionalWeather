@@ -16,4 +16,4 @@ There are 3 IO types/handlers:
 
 ## Demo
 
-![Alt Text](https://github.com/viralplatipuss/SimpleFunctionalWeather/blob/master/WeatherApp.gif)
+![Weather app gif](https://github.com/viralplatipuss/SimpleFunctionalWeather/blob/master/WeatherApp.gif)
